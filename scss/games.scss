@@ -1,0 +1,31 @@
+.games {
+  ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin-top: 40px;
+    li {
+      cursor: pointer;
+      border: 2px solid rgb(61, 7, 7);
+      img {
+        border-bottom: 2px solid rgb(61, 7, 7);
+        height: 200px;
+      }
+      p {
+        text-align: center;
+        font-size: 20px;
+      }
+    }
+    li:hover {
+      border-color: rgb(224, 26, 26);
+      img {
+        border-color: rgb(224, 26, 26);
+      }
+      p {
+        text-decoration: underline;
+        color: rgb(224, 26, 26);
+      }
+    }
+  }
+}
