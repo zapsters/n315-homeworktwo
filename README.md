@@ -2,7 +2,7 @@
 
 ## Link
 
-link: https://in-info-web4.informatics.iupui.edu/~erballin/n315/homeworktwo
+link: https://in-info-web4.luddy.indianapolis.iu.edu/~erballin/n315/homeworktwo
 
 ## Purpose
 
